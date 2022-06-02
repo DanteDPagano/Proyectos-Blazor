@@ -7,7 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppWebInstitute.DataAccess\AppWebInstitute.DataAccess.csproj" />
+    <ProjectReference Include="..\AppWebInstitute.Services\AppWebInstitute.Services.csproj" />
   </ItemGroup>
 
 </Project>

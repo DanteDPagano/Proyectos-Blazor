@@ -1,0 +1,5 @@
+c:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.Services\obj\Debug\net6.0\AppWebInstitute.Services.csproj.AssemblyReference.cache
+c:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.Services\obj\Debug\net6.0\AppWebInstitute.Services.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.Services\obj\Debug\net6.0\AppWebInstitute.Services.AssemblyInfoInputs.cache
+c:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.Services\obj\Debug\net6.0\AppWebInstitute.Services.AssemblyInfo.cs
+c:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.Services\obj\Debug\net6.0\AppWebInstitute.Services.csproj.CoreCompileInputs.cache

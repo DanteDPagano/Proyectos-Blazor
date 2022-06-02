@@ -10,9 +10,12 @@ namespace AppWebInstitute.DataAccess.Modelos
         //propiedad
         //Ej. public string? Nombre { get; set; }
         // public string Nombre { get; set; } = null!;
-        [StringLength(50, ErrorMessage = "El largo máximo es de 50 caracteres")]
+        [StringLength(45, ErrorMessage = "El largo máximo es de 45 caracteres")]
         public string? Nombre { get; set; }
+        [StringLength(45, ErrorMessage = "El Apellido deve contener como máximo 45 carcteres")]
         public string? Apellido { get; set; }
+        [StringLength(8,MinimumLength = 7)]
+        [RegularExpression(@"^[0-9]{7,8}$")]
         public string? NroDoc { get; set; }
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
@@ -20,8 +23,11 @@ namespace AppWebInstitute.DataAccess.Modelos
         public Domicilio? Domicilio { get; set; }
         public int ProvinciaId { get; set; }
         public int LocalidadId { get; set; }
+        [StringLength(14,MinimumLength = 8)]
+        [RegularExpression(@"^[0-9]{8,14}$")]
         public string? NroTelefono { get; set; }
         public string? NroMovil { get; set; }
+        [RegularExpression(@"^[a-zA-Z]+(\.[a-zA-Z]+)*(@[a-z]+\.[a-z]{3}){1}(\.[a-zA-Z]{2,3})*$")]
         public string? EMail { get; set; }
         public int Legajo { get; set; }
         public bool Eliminado { get; set; }
