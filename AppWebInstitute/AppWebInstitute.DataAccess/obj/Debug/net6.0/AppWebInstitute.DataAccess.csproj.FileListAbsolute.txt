@@ -1,0 +1,12 @@
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\bin\Debug\net6.0\AppWebInstitute.DataAccess.deps.json
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\bin\Debug\net6.0\AppWebInstitute.DataAccess.dll
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\bin\Debug\net6.0\AppWebInstitute.DataAccess.pdb
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\AppWebInstitute.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\AppWebInstitute.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\AppWebInstitute.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\AppWebInstitute.DataAccess.AssemblyInfo.cs
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\AppWebInstitute.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\AppWebInstitute.DataAccess.dll
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\refint\AppWebInstitute.DataAccess.dll
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\AppWebInstitute.DataAccess.pdb
+C:\Users\Dante\Documents\ProyectosBlazor\Proyectos-Blazor\AppWebInstitute\AppWebInstitute.DataAccess\obj\Debug\net6.0\ref\AppWebInstitute.DataAccess.dll
